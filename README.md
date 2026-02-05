@@ -12,4 +12,4 @@ Merhaba! Bu araç, OpenWrt cihazınızın kısıtlı dahili hafızasını bir US
 📍 **Adım 2:** Putty veya benzeri bir programla SSH üzerinden router'a bağlanın ve şu komutu çalıştırın:
 
 ```bash
-rm -f exroot.sh && wget [https://raw.githubusercontent.com/Hicwell/Increase-openwrt-disk-space/main/exroot.sh](https://raw.githubusercontent.com/Hicwell/Increase-openwrt-disk-space/main/exroot.sh) && chmod 777 exroot.sh && sh exroot.sh
+rm -f exroot.sh && wget https://raw.githubusercontent.com/Hicwell/Increase-openwrt-disk-space/main/exroot.sh && chmod 777 exroot.sh && sh exroot.sh
